@@ -10,8 +10,8 @@ Snowtrace Gas Price Tracker Demo
 
 ## Deployed Links
 
-- 🖥️ Backend:
-- 🌐 Frontend:
+- 🖥️ Backend:https://snowtrace-scraping.onrender.com
+- 🌐 Frontend:https://snowtrace-scraping1.onrender.com
 
 ## Tech Stack
 

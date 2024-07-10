@@ -1,6 +1,6 @@
 /** @format */
 
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { format } from 'date-fns';
 import { fetchCurrentGasPrice, fetchHistoricalGasPrices } from './api/gasPrice';
 import {
