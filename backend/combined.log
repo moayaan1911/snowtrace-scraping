@@ -101,3 +101,5 @@
 {"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:30.889Z"}
 {"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:30.960Z"}
 {"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:21:35.972Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T18:26:03.101Z"}
+{"level":"info","message":"Scheduler started","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T18:26:03.193Z"}
