@@ -1,0 +1,103 @@
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:11:06.051Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:50:54.460Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:51:29.369Z"}
+{"level":"warn","message":"Gas price not found on the page","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:51:38.158Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:56:19.395Z"}
+{"level":"warn","message":"Gas price not found on the page","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:56:23.288Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:57:01.984Z"}
+{"level":"warn","message":"Gas price not found on the page","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T13:57:07.459Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:00:13.588Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:00:14.264Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:05:32.369Z"}
+{"level":"info","message":"Scheduler started","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:05:32.440Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:00.683Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:01.699Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:01.774Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:30.998Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:31.432Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:06:31.475Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:00.233Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:00.353Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:00.393Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:30.495Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:30.626Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:07:30.699Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:00.754Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:00.881Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:00.943Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:30.026Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:30.156Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:08:30.199Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:00.313Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:00.458Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:00.499Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:30.610Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:30.739Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:09:30.786Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:00.880Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:01.024Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:01.078Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:30.124Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:30.256Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:10:30.311Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:00.426Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:00.680Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:00.730Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:30.676Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:30.811Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:11:30.854Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:00.962Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:01.090Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:01.150Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:30.273Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:30.426Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:12:30.483Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:00.539Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:00.666Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:00.714Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:30.835Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:30.965Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:13:31.019Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:00.183Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:00.331Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:00.376Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:30.470Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:30.601Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:14:30.651Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:00.755Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:00.900Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:00.947Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:30.022Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:30.147Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:15:30.185Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:00.287Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:00.418Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:00.491Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:30.525Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:30.654Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:16:30.733Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:00.836Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:00.975Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:01.018Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:30.065Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:30.201Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:17:30.259Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:00.343Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:00.529Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:00.577Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:30.614Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:30.746Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:18:30.813Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:00.856Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:00.996Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:01.046Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:30.132Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:30.253Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:19:30.294Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:00.463Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:00.624Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:00.673Z"}
+{"level":"info","message":"Running scheduled task to fetch and store gas price","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:30.752Z"}
+{"level":"info","message":"Fetched gas price: 25 nAVAX ($0.014)","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:30.889Z"}
+{"level":"info","message":"Gas price stored in database","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:20:30.960Z"}
+{"level":"info","message":"Server is running on port 3000","service":"snowtrace-scraping-backend","timestamp":"2024-07-10T14:21:35.972Z"}
