@@ -16,7 +16,9 @@ app.use(cors());
 app.use('/gas', gasRoutes);
 
 const port = process.env.PORT || 3000;
-
+app.get('/', (req, res) => {
+  res.send('Hello World!');
+});
 app.listen(port, () => {
   logger.info(`Server is running on port ${port}`);
   connectDB();
