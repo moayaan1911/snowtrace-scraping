@@ -35,7 +35,36 @@ function App() {
         setCurrentPrice(current);
 
         const historical = await fetchHistoricalGasPrices();
-        setHistoricalPrices(historical);
+
+        const formattedHistorical = historical.map(
+          (item: { timestamp: string | number | Date }) => {
+            const date = new Date(item.timestamp);
+            const utcDateString = date.toISOString().split('T')[0]; // Extract the date part
+            const utcTimeString = date.toISOString().split('T')[1].slice(0, 5); // Extract the time part (HH:mm)
+            return {
+              ...item,
+              utcDateString,
+              utcTimeString,
+            };
+          }
+        );
+
+        const sortedHistorical = formattedHistorical.sort(
+          (
+            a: { utcDateString: string; utcTimeString: string },
+            b: { utcDateString: string; utcTimeString: string }
+          ) => {
+            const dateComparison = a.utcDateString.localeCompare(
+              b.utcDateString
+            );
+            if (dateComparison !== 0) {
+              return dateComparison;
+            }
+            return a.utcTimeString.localeCompare(b.utcTimeString);
+          }
+        );
+
+        setHistoricalPrices(sortedHistorical);
         toast.success('Historical gas prices updated!', {
           position: 'top-center',
         });
@@ -136,7 +165,7 @@ function App() {
                 <XAxis
                   dataKey='timestamp'
                   tickFormatter={(timestamp) =>
-                    format(new Date(timestamp), 'MMM d, h:mm a')
+                    format(new Date(timestamp), 'MMM d, HH:mm')
                   }
                 />
                 <YAxis yAxisId='left' />
@@ -146,7 +175,7 @@ function App() {
                 />
                 <Tooltip
                   labelFormatter={(timestamp) =>
-                    format(new Date(timestamp), 'MMM d, yyyy h:mm a')
+                    format(new Date(timestamp), 'MMM d, yyyy HH:mm')
                   }
                 />
                 <Legend />
